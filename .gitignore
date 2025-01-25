@@ -1,8 +1,0 @@
-# Virtual environment
-venv/
-
-# IDE files
-*.idea/
-*.vscode/
-*.swp
-.DS_Store
